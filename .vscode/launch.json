@@ -2,22 +2,12 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-SampleApplication<sample-java-maven>",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "mainClass": "com.sample.javamaven.SampleApplication",
-            "projectName": "sample-java-maven",
-            "args": ""
-        },
-        {
-            "type": "java",
-            "name": "Spring Boot-SampleApplication<sample-java-maven>",
+            "name": "Spring Boot-SampleApplication<spring>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "mainClass": "com.sample.spring.SampleApplication",
-            "projectName": "sample-java-maven",
+            "projectName": "spring",
             "args": ""
         }
     ]
