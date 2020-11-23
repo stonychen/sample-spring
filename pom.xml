@@ -8,10 +8,10 @@
 		<version>2.4.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.samplejavamaven</groupId>
-	<artifactId>sample-java-maven</artifactId>
+	<groupId>com.sample</groupId>
+	<artifactId>spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sample-java-maven</name>
+	<name>sample-spring</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
